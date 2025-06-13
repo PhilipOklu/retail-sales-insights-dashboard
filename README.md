@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built from a multi-variable retail data
 This project features a comprehensive Excel-based sales analytics dashboard developed from a rich retail dataset. It includes raw data, cleaned and profiled columns, KPI tracking, exploratory data analysis (EDA), and interactive visualizations.
 
 🔗 **[Download Dashboard](LINK_TO_FILE)**  
-ProjectAssOneExcel.png
+![Dashboard Preview](ProjectAssOneExcel.png)
 ---
 
 ## 📁 Project Overview
